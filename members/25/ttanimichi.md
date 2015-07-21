@@ -2,8 +2,8 @@
 
 Aiming という会社で Rails を書いています。
 
-https://github.com/ttanimichi
-https://twitter.com/ttanimichi
+- https://github.com/ttanimichi
+- https://twitter.com/ttanimichi
 
 ## 最近興味のあること
 
